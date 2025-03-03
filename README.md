@@ -19,6 +19,8 @@ The light-weight cache is an in-memory caching solution designed for microservic
 
 * Creating a Cache Instance
   ```FlexibleCache<List<String>> cache = new FlexibleCache<>(5, TimeUnit.MINUTES, 100);```
+  
   First Parameter: Expiration time (e.g., 5 MINUTES)
+  
   Second Parameter: Maximum cache size before eviction occurs (e.g., 100 items)
 
