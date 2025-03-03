@@ -42,6 +42,21 @@ The light-weight cache is an in-memory caching solution designed for microservic
   ```System.out.println(cache.get("fruits")); // Expected: Empty (Expired!)```
 
 
+**📜 License**
+
+This project is licensed under the MIT License.
+
+**📬 Contact**
+
+If you have any questions or issues, feel free to reach out!
+
+* Author: Aditya Kumar Singh
+
+* Email: adityasingh.aks96@gmail.com
+
+* GitHub: github.com/aditya-singh-9699
+
+
 
 
 
