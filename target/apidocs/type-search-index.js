@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.adityasingh9699.cache","l":"CacheEntry"},{"p":"io.github.adityasingh9699.cache","l":"FlexibleCache"}];updateSearchResults();
